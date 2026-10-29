@@ -7,4 +7,6 @@ og følge opp kommunikasjonen. Utgangspunktet er gjenbruk, samhandling og åpne 
 Piloten bygger på case 11: [Digital dialog mellom barnehage/skole og hjemmet](https://docs.samt-bu.no/behov/use-cases/11-digital-dialog-hjem/).
 
 - **Oppgaver:** [issues i dette repoet](https://github.com/samt-x/samt-bu-pilot-7/issues), én per arbeidspakke til å begynne med
-- **Sider:** kommer på docs.samt-bu.no under Pilotering → Pilot 7 (repoet blir en Hugo-modul, `go.mod` ligger klar)
+- **Brett:** [SAMT-BU Pilot 7](https://github.com/orgs/samt-x/projects/19)
+- **Sider:** [Pilotering → Pilot 7](https://docs.samt-bu.no/pilotering/pilot-7/) på docs.samt-bu.no. Repoet er en Hugo-modul,
+  og `content/` monteres på `pilotering/pilot-7`.
