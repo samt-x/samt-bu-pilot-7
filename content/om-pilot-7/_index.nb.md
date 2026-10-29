@@ -1,4 +1,5 @@
 ---
+id: f8256f11-4edc-440a-b6cb-56ddb29e9d02
 title: Om pilot 7
 weight: 10
 

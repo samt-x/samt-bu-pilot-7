@@ -1,4 +1,5 @@
 ---
+id: 55f52ffb-aeaa-460d-971e-07bcd8208a9c
 title: Pilot 7 - Digital dialog mellom barnehage/skole og hjemmet
 weight: 70
 status: Ny
