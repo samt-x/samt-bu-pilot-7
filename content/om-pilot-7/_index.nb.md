@@ -2,6 +2,8 @@
 id: f8256f11-4edc-440a-b6cb-56ddb29e9d02
 title: Om pilot 7
 weight: 10
+lastmod: 2026-10-29T21:17:36+01:00
+last_editor: Erik Hagen
 
 ---
 *Siden bygger på planutkastet «Gjennomføring av Pilot 7», versjon 0.1. Mye er ikke avklart ennå, og det står da på siden.*

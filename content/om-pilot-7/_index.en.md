@@ -3,6 +3,8 @@ id: f8256f11-4edc-440a-b6cb-56ddb29e9d02
 title: "About pilot 7"
 linkTitle: "About pilot 7"
 weight: 10
+lastmod: 2026-10-29T21:17:36+01:00
+last_editor: Erik Hagen
 
 ---
 *This page is based on the draft plan «Gjennomføring av Pilot 7» (carrying out Pilot 7), version 0.1. Much is not settled yet, and the page says so where that is the case.*
