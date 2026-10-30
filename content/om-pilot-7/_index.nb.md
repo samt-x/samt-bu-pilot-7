@@ -193,4 +193,4 @@ Pilotens oppgaver følges opp som issues i [samt-bu-pilot-7](https://github.com/
 
 ### Ikke avklart ennå
 
-Overordnet plan, mål (OKR), rammer (budsjett), usikkerhetsanalyse og kommunikasjon er ikke avklart ennå.
+Overordnet plan, mål (OKR), rammer (budsjett), usikkerhetsanalyse og kommunikasjon er ikke avklart ennå. (Test av «Foreslå endring», skal ikke flettes.)
