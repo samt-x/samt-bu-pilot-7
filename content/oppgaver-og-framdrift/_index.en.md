@@ -3,6 +3,9 @@ id: d4b314bc-1cd5-4966-b4a8-8e942077688a
 title: "Tasks and progress"
 linkTitle: "Tasks and progress"
 weight: 90
+lastmod: 2026-11-02T00:12:49+01:00
+last_editor: Erik Hagen
+
 ---
 
 The tasks of pilot 7 are issues in [samt-bu-pilot-7](https://github.com/samt-x/samt-bu-pilot-7/issues) and on the board [SAMT-BU Pilot 7 – Digital dialog](https://github.com/orgs/samt-x/projects/19) (Project 19). This page shows where the work stands.

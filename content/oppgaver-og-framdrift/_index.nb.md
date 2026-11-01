@@ -3,6 +3,9 @@ id: d4b314bc-1cd5-4966-b4a8-8e942077688a
 title: "Oppgaver og framdrift"
 linkTitle: "Oppgaver og framdrift"
 weight: 90
+lastmod: 2026-11-02T00:12:49+01:00
+last_editor: Erik Hagen
+
 ---
 
 Oppgavene i pilot 7 ligger som issues i [samt-bu-pilot-7](https://github.com/samt-x/samt-bu-pilot-7/issues) og på brettet [SAMT-BU Pilot 7 – Digital dialog](https://github.com/orgs/samt-x/projects/19) (Project 19). Denne siden viser hvor arbeidet står.
