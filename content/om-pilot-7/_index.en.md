@@ -7,7 +7,7 @@ lastmod: 2026-10-29T21:17:36+01:00
 last_editor: Erik Hagen
 
 ---
-*This page is based on the draft plan «Gjennomføring av Pilot 7» (carrying out Pilot 7), version 0.1. Much is not settled yet, and the page says so where that is the case.*
+*This page is based on the draft plan "Gjennomføring av Pilot 7" (Carrying out Pilot 7), version 0.1. Much is not settled yet, and the page says so where that is the case.*
 
 ## INTRODUCTION
 
@@ -25,7 +25,7 @@ Parents and guardians often have to deal with several digital solutions to commu
 
 At the same time, municipalities and educational institutions have already invested in existing solutions. It is therefore not sensible to assume that the challenge should be solved by developing yet another app or by replacing all existing solutions.
 
-### The pilot's objectives
+### Objectives of the pilot
 
 The central question for the pilot is how existing solutions can work better together, so that parents can choose how they want to receive and follow up communication, without compromising privacy, information security or the organisations' responsibilities. The pilot therefore builds on reuse, interoperability and open interfaces rather than developing a new app.
 
@@ -39,22 +39,22 @@ The objectives are to:
 - draft common requirements that municipalities and others can set for suppliers
 - make it possible for the voluntary sector and innovators to follow the same approach to more coherent communication
 
-### The pilot's products
+### Deliverables of the pilot
 
-The pilot has the following products:
+The pilot has the following deliverables:
 
-1. **Solution design:** a sketch of how today's systems and common solutions can work together to give parents one combined channel
+1. **Solution design:** a sketch of how today's systems and shared solutions can work together to give parents one combined channel
 2. **Common standards and integration model:** a proposal for how messages, calendar information and history can be shared between different systems in a standardised way
 3. **Technical prototype:** a simple demonstration of how information from different systems can be combined in one user interface
 4. **Legal clarifications:** an overview of what must be in place for privacy, access rights and the division of responsibility. It may also be relevant to look at how pupils themselves can use the solution (input from Demokratiløftet).
 5. **Common supplier requirements:** a proposal for requirements that make it easier for different systems to exchange data, and that reduce supplier lock-in
 6. **Hackathon:** a hackathon has been proposed to find possible solutions and prototypes
 
-Carrying out the pilot shall also provide input for updating the project's «playbook» for this kind of project.
+Carrying out the pilot will also provide a basis for updating the project's playbook for this type of project.
 
 ### Delimitation
 
-The pilot shall concentrate on demonstrating how existing solutions can work together, not on developing a new service or app. The pilot is limited to:
+The pilot will concentrate on demonstrating how existing solutions can work together, not on developing a new service or app. The pilot is limited to:
 
 - mapping relevant solutions and reusable components
 - developing a simple prototype that shows selected information in one place
@@ -92,7 +92,7 @@ Staffing is not settled yet. That is work package 1.
 
 The duration is not settled yet.
 
-### The pilot's work packages
+### Work packages
 
 Each work package is followed up as an issue in [samt-bu-pilot-7](https://github.com/samt-x/samt-bu-pilot-7/issues).
 
